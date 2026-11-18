@@ -200,7 +200,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Crimson Desert · Updated 2026-11-17 · Shared under the MIT License*
+*Crimson Desert · Updated 2026-11-18 · Shared under the MIT License*
 
 
-Updated 2026-11-17.
+Updated 2026-11-18.
